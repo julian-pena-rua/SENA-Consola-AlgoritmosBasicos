@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\MiniAppsConsola\MiniAppsConsola\bin\Debug\netcoreapp2.1\MiniAppsConsola.deps.json
+C:\Users\Usuario\source\repos\MiniAppsConsola\MiniAppsConsola\bin\Debug\netcoreapp2.1\MiniAppsConsola.runtimeconfig.json
+C:\Users\Usuario\source\repos\MiniAppsConsola\MiniAppsConsola\bin\Debug\netcoreapp2.1\MiniAppsConsola.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\MiniAppsConsola\MiniAppsConsola\bin\Debug\netcoreapp2.1\MiniAppsConsola.dll
+C:\Users\Usuario\source\repos\MiniAppsConsola\MiniAppsConsola\bin\Debug\netcoreapp2.1\MiniAppsConsola.pdb
+C:\Users\Usuario\source\repos\MiniAppsConsola\MiniAppsConsola\obj\Debug\netcoreapp2.1\MiniAppsConsola.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\MiniAppsConsola\MiniAppsConsola\obj\Debug\netcoreapp2.1\MiniAppsConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\MiniAppsConsola\MiniAppsConsola\obj\Debug\netcoreapp2.1\MiniAppsConsola.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\MiniAppsConsola\MiniAppsConsola\obj\Debug\netcoreapp2.1\MiniAppsConsola.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\MiniAppsConsola\MiniAppsConsola\obj\Debug\netcoreapp2.1\MiniAppsConsola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MiniAppsConsola\MiniAppsConsola\obj\Debug\netcoreapp2.1\MiniAppsConsola.dll
+C:\Users\Usuario\source\repos\MiniAppsConsola\MiniAppsConsola\obj\Debug\netcoreapp2.1\MiniAppsConsola.pdb
+C:\Users\Usuario\source\repos\MiniAppsConsola\MiniAppsConsola\obj\Debug\netcoreapp2.1\MiniAppsConsola.genruntimeconfig.cache
